@@ -15,3 +15,9 @@ elif nilai_akhir >= 75 and kehadiran >= 80:
     print("Status : LULUS")
 else:
     print("Status : BELUM LULUS")
+Nilai Tugas : 80
+Nilai UTS : 80
+Nilai UAS : 90
+Kehadiran : 95
+Nilai Akhir : 85.0
+Status : LULUS
